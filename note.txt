@@ -7,3 +7,4 @@ hai là đẩy toàn bộ file đã có sự thay đổi hoặc thêm mới thì
 4. Lệnh giúp tạo một phiên bản để quản lí các sự thay đổi đã xảy ra: git commit -m "nội dung lời nhắn"
 5. Lệnh giúp kết nối remote repo với local repo: git remote add origin url_của_remote_repo
 6. Lệnh giúp đẩy ciode từ local repo lên remote repo: 2 trường hợp xảy ra, nếu là lần đầu tiên từ local repo đẩy lên github thì sẽ là: git push -u origin tên_nhánh_main_hoặc_master. Còn ở các lần đẩy sau thì sẽ là: git push
+7. Lệnh giúp clone ( lấy một bản sao ) một dự án từ trên github về máy: git clone url_của_remote_repo
